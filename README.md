@@ -1,2 +1,2 @@
-# Caluladora-com-Javascript
-Calculadora usando somente JavaScript desenvolvida no bootcamp do Santander em porceria com a Dio 
+# Caluladora com Javascript
+Calculadora simples usando somente JavaScript desenvolvida no bootcamp do Santander em parceria com a Dio 
